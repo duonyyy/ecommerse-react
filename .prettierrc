@@ -1,13 +1,12 @@
 {
-    "printWidth": 80, // Độ dài tối đa của dòng trước khi xuống dòng. Mặc định là 80 ký tự.
-    "tabWidth": 2, // Số khoảng trắng cho mỗi cấp thụt lề. Mặc định là 2.
-    "useTabs": false, // Sử dụng khoảng trắng (false) thay vì tab (true) để thụt lề.
-    "semi": true, // Thêm dấu chấm phẩy (;) ở cuối mỗi dòng. Mặc định là true.
-    "singleQuote": true, // Sử dụng dấu nháy đơn (' ') thay vì nháy kép (" "). Mặc định là false.
-    "trailingComma": "es5", // Thêm dấu phẩy cuối trong các phần tử (nơi hợp lệ trong ES5).
-    "bracketSpacing": true, // Thêm khoảng trắng bên trong dấu ngoặc nhọn. VD: { key: "value" }.
-    "jsxBracketSameLine": false, // Trong JSX, đưa dấu ngoặc đóng `>` xuống dòng mới. Mặc định là false.
-    "arrowParens": "always", // Luôn thêm dấu ngoặc đơn cho tham số của hàm mũi tên. VD: `(x) => x`.
-    "endOfLine": "lf" // Đảm bảo sử dụng ký tự xuống dòng là LF (`\n`). Phù hợp với Unix.
-  }
-  
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "always",
+  "endOfLine": "lf"
+}
